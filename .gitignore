@@ -1,0 +1,28 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executable files
+*.exe
+*.out
+
+# Backup files
+*~ 
+*.bak
+*.swp
+
+# Visual Studio Code specific files
+.history/
+*.code-workspace
+
+# MSYS2 specific files
+msys64/
